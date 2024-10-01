@@ -38,7 +38,7 @@ tests/data/common_wheels/
 .idea/
 
 # For Visual Studio Code
-.vscode/
+# .vscode/
 
 # For Sublime Text
 *.sublime-workspace
